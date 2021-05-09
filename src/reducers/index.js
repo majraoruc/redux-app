@@ -1,10 +1,10 @@
 import {combineReducers} from 'redux'
 const songsReducer = () => {
     return [
-        { title: 'Yesterday', duration: '2:05' },
-        { title: 'Hey Jude', duration: '8:09' },
-        { title: 'A Hard Day\'s Night', duration: '2:38' },
-        { title: 'Lucy in the Sky', duration: '3:28' }
+        { title: 'Carry On Wayward Son', duration: '5:24' },
+        { title: 'Hammer to Fall', duration: '3:55' },
+        { title: 'Manic Monday', duration: '3:04' },
+        { title: 'Desert Rose', duration: '4:49' }
     ]
 };
 
